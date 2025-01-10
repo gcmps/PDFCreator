@@ -2,6 +2,8 @@
 
 **PDFCreator** is a lightweight and easy-to-use Flask-based web application that allows users to upload multiple images (JPEG, PNG) and convert them into a single PDF document. The app also supports optional compression to reduce file size.
 
+![PDFCreator Screenshot](images/screenshot.png "PDFCreator Interface")
+
 ## Features
 - **Batch Image Upload**: Upload multiple images at once for seamless PDF creation.
 - **Custom PDF Naming**: Specify a custom name for your generated PDF.
